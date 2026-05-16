@@ -1,24 +1,12 @@
 # Project Statement
 
-## Responsible Person and Affiliation
+## Author and Affiliation
 
-Project name: PMT: Partition-Conditioned Multi-Trigger Multi-Target Backdoor Attacks
+项目名称（Project Name）：PMT: Partition-Conditioned Multi-Trigger Multi-Target Backdoor Attacks
 
-负责人：刘兰林
+项目作者（Author）：刘兰林
 
-学号：202434561016
-
-电话：18720216397
-
-专业：计算机技术
-
-培养层次：硕士生
-
-指导教师：何早波
-
-人事编号：2020564
-
-单位：网络空间安全学院教师
+作者单位（Affiliation）：暨南大学网络空间安全学院
 
 ## Purpose
 
