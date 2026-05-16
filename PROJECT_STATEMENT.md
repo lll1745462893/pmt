@@ -2,11 +2,11 @@
 
 ## Author and Affiliation
 
-Project name: PMT: Partition-Level Multi-Target Backdoor Core Implementation
+Project name: pmt
 
-Author: lll1745462893
+Author: Yixiang Lu, Shijie Xu, Chengxi Jiang, Xinquan Yang, Shihan Chen, Guanggang Geng, Dongjie Liu
 
-Affiliation: Academic research project
+Affiliation: College of Cyber Security, Jinan University
 
 ## Purpose
 
