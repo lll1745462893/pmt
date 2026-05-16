@@ -89,4 +89,4 @@ For more details, see [PROJECT_STATEMENT.md](PROJECT_STATEMENT.md).
 
 ## License
 
-This repository is released under an academic research use license. The copyright holders are the listed project authors from the College of Cyber Security, Jinan University. See [LICENSE](LICENSE) for details.
+This repository is released under an academic research use license. The project responsible person and supervisor information are listed in [PROJECT_STATEMENT.md](PROJECT_STATEMENT.md) and [LICENSE](LICENSE).

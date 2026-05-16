@@ -1,12 +1,24 @@
 # Project Statement
 
-## Author and Affiliation
+## Responsible Person and Affiliation
 
 Project name: PMT: Partition-Conditioned Multi-Trigger Multi-Target Backdoor Attacks
 
-Author: Yixiang Lu, Shijie Xu, Chengxi Jiang, Xinquan Yang, Shihan Chen, Guanggang Geng, Dongjie Liu
+负责人：刘兰林
 
-Affiliation: College of Cyber Security, Jinan University
+学号：202434561016
+
+电话：18720216397
+
+专业：计算机技术
+
+培养层次：硕士生
+
+指导教师：何早波
+
+人事编号：2020564
+
+单位：网络空间安全学院教师
 
 ## Purpose
 
