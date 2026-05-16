@@ -2,7 +2,7 @@
 
 ## Author and Affiliation
 
-Project name: pmt
+Project name: PMT: Partition-Conditioned Multi-Trigger Multi-Target Backdoor Attacks
 
 Author: Yixiang Lu, Shijie Xu, Chengxi Jiang, Xinquan Yang, Shihan Chen, Guanggang Geng, Dongjie Liu
 
@@ -10,9 +10,9 @@ Affiliation: College of Cyber Security, Jinan University
 
 ## Purpose
 
-This repository contains the core implementation of a partition-level multi-target backdoor research method. The purpose of the project is to study controllability, trigger-partition matching, and evaluation metrics for backdoor learning under controlled experimental settings.
+This repository contains the core implementation of PMT: Partition-Conditioned Multi-Trigger Multi-Target Backdoor Attacks. The purpose of the project is to study controllability, trigger-partition matching, and evaluation metrics for backdoor learning under controlled experimental settings.
 
-本项目用于研究多分区、多目标后门攻击中的分区可控性、触发器匹配关系和实验评估指标。代码仅供学术研究、课程项目和安全实验复现使用。
+本项目用于研究多分区、多触发器、多目标后门攻击中的分区可控性、触发器匹配关系和实验评估指标。代码仅供学术研究、课程项目和安全实验复现使用。
 
 ## Scope
 

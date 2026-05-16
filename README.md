@@ -1,8 +1,8 @@
-# PMT: Partition-Level Multi-Target Backdoor Core Implementation
+# PMT: Partition-Conditioned Multi-Trigger Multi-Target Backdoor Attacks
 
-本项目整理了 PMT（Partition-level Multi-Target）方法的核心实现代码，用于研究多分区、多目标后门攻击中的分区可控性。代码从 LOTUS 实验工程中抽取，只保留方法实现和最小运行依赖，不包含数据集、模型权重、日志、可视化结果或防御实验脚本。
+本项目实现了 PMT（Partition-Conditioned Multi-Trigger Multi-Target Backdoor Attacks）方法，用于研究多分区、多触发器、多目标后门攻击中的分区可控性。项目代码包含 PMT 的核心训练流程、分区建模、触发器构造、投毒样本生成和评估逻辑。
 
-This repository contains the core implementation of PMT, a partition-level multi-target backdoor method. The code is extracted from the LOTUS experimental project and keeps only the method implementation and minimal dependencies.
+This repository implements PMT: Partition-Conditioned Multi-Trigger Multi-Target Backdoor Attacks. It contains the core training workflow, partition modeling, trigger construction, poisoned-sample generation, and evaluation logic for PMT.
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ pmt/
 
 ## Core Idea
 
-PMT aims to assign victim-class samples into multiple latent partitions and bind each partition to a different target label. During poisoning, the method learns partition-aware trigger behavior instead of a single global trigger shortcut.
+PMT aims to assign victim-class samples into multiple latent partitions and bind each partition to a partition-conditioned trigger and a different target label. During poisoning, the method learns partition-aware, multi-trigger behavior instead of a single global trigger shortcut.
 
 The core workflow is:
 
@@ -77,7 +77,7 @@ train_lotus(...)
 test(...)
 ```
 
-The copied code is intended as the method core. Full experiment orchestration, plotting, defense evaluation, trained checkpoints, and large datasets are intentionally excluded from this repository.
+This repository focuses on the PMT method implementation. Full experiment orchestration, plotting, defense evaluation, trained checkpoints, and large datasets are intentionally excluded from this repository.
 
 ## Project Statement
 
@@ -89,4 +89,4 @@ For more details, see [PROJECT_STATEMENT.md](PROJECT_STATEMENT.md).
 
 ## License
 
-This repository is released for academic and research use only. See [LICENSE](LICENSE) for details.
+This repository is released under an academic research use license. The copyright holders are the listed project authors from the College of Cyber Security, Jinan University. See [LICENSE](LICENSE) for details.
